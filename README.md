@@ -2,7 +2,7 @@
 
 <br>
 
-<div align="center">
+<div>
   Programming student passionate about technology, looking for internship opportunities to apply and improve my skills in software development.
 </div>
 
