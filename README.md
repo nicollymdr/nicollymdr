@@ -3,7 +3,7 @@
 <br>
 
 <div>
-  Programming student passionate about technology, looking for internship opportunities to apply and improve my skills in software development.
+   Programming student passionate about technology and driven by problem-solving. Currently focused on enhancing skills in developmen and responsive web design. Seeking internship opportunities to gain practical experience, collaborate with professionals, and make a positive impact through innovative software solutions. Skilled in HTML5, CSS3, Javascript, SQL, and continuously learning new technologies to stay updated and improve technical knowledge.
 </div>
 
 <br>
