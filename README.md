@@ -3,6 +3,12 @@
 <br>
 
 <div align="center">
+  Programming student passionate about technology, looking for internship opportunities to apply and improve my skills in software development.
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/nicollymdr">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=nicollymdr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollymdr&layout=compact&langs_count=7&theme=tokyonight" />
